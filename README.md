@@ -1,0 +1,1 @@
+An example of a NodeJS server that returns SVG barcodes using [bwip-js](https://github.com/metafloor/bwip-js)
